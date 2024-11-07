@@ -12,7 +12,7 @@ body {
     font-size: 25px;
 }
 .full {
-    width: 315mm;
+    width: 350mm;
     height: 445.5mm;
 	background-color: rgb(245, 239, 231);
 	margin: 0px;
@@ -98,7 +98,7 @@ i{
     font-size: 18px;
 }
 .email{
-    font-size: 17px;
+    font-size: 20px;
 }
 h2 i{
     font-size: 25px;
