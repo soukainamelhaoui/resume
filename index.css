@@ -9,7 +9,7 @@ body {
 	justify-content: center;
 	align-items: center;
     color: rgb(87, 68, 95);
-    font-size: 20px;
+    font-size: 25px;
 }
 .full {
     width: 315mm;
@@ -98,7 +98,7 @@ i{
     font-size: 18px;
 }
 .email{
-    font-size: 14px;
+    font-size: 17px;
 }
 h2 i{
     font-size: 25px;
